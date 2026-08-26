@@ -1,0 +1,16 @@
+{
+  "version": "3.2d",
+  "launch": "INICIAR_MTG_ORGANIZER_PRUEBA.bat",
+  "files": [
+    {
+      "path": "app_v3_2c_columnas_estables.py",
+      "url": "https://raw.githubusercontent.com/Jumancho/MTG-Organizer-Updates/main/app_v3_2c_columnas_estables.py",
+      "sha256": "83bd8c91d76d2f47354a235ec96bce4b394b389b4cad6b2947ed49f02ad1ef80"
+    },
+    {
+      "path": "db.py",
+      "url": "https://raw.githubusercontent.com/Jumancho/MTG-Organizer-Updates/main/db.py",
+      "sha256": "b2114f3f1ef58de3f5f141ff0a58b48d2739db8d0301ee198672dd18d2c94d36"
+    }
+  ]
+}
